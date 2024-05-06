@@ -9,7 +9,7 @@
     /* start header */
     html {max-width: 600px;}
     header {
-        width: 320px !important;
+        width: 375px !important;
         height: 500px !important;
     }
     header .container h1 {font-size: 80px;}
@@ -37,7 +37,7 @@
     
     .photo {
         height: 370px;
-        width: 320px !important;
+        width: 375px !important;
     }
     
     .section2 {flex-direction: column;}
